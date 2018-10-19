@@ -1,0 +1,2 @@
+alias lr='ls -alh'
+
